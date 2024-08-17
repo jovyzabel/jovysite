@@ -1,3 +1,6 @@
 ::placeholder{
 color: #d9d9d93b !important;
 }
+input{
+    outline-color: #008170 !important;
+}
